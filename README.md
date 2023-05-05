@@ -19,12 +19,12 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/luan-pozzobon-8478a2235/">
-      <img width="25" src="Linkedin_icon.svg">
+      <img width="25" src="LinkedIn_icon.svg">
     </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-t
+
 <!--
 **LuanPozzobon/LuanPozzobon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
