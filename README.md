@@ -1,5 +1,6 @@
 <h1 align="center">Oi 👋, eu sou Luan Pozzobon</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
+<br>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPozzobon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -23,8 +24,9 @@
       <img width="25" src="LinkedIn_icon.svg">
     </a>
 </div>
+<br>
 
-- 🌱 Estou aprendendo **Java, Kotlin, BackEnd**
+- 🌱 Estou atualmente aprendendo as linguages **Java e Kotlin** e estrutura **BackEnd**
 
 - 📫 Como entrar em contato **luanpozzobon@gmail.com**
   
