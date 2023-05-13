@@ -21,10 +21,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/luan-pozzobon-8478a2235/">
-      <img width="25" src="LinkedIn_icon.svg">
+      <img align="center" height="30" width="40" alt="linkedin-icon" src="LinkedIn_icon.svg">
     </a>
   <a href = "https://leetcode.com/LuanPozzobon/">
-      <img width="25" src="LeetCode.svg">
+      <img align="center" height="30" width="40" alt="leetcode-icon" src="LeetCode.svg">
     </a>
 </div>
 <br>
