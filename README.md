@@ -4,7 +4,7 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPozzobon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPozzobon&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPozzobon&layout=compact&langs_count=50&theme=midnight-purple"/>
 </div>
 
 <div  align="center"> 
