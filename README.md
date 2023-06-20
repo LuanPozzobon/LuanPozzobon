@@ -29,8 +29,6 @@
 </div>
 <br>
 
-- 🌱 Estou atualmente aprendendo as linguages **Java e Kotlin** e estrutura **BackEnd**
-
 - 📫 Como entrar em contato **luanpozzobon@gmail.com**
   
 ![Snake animation](https://github.com/LuanPozzobon/LuanPozzobon/blob/output/github-contribution-grid-snake.svg)
